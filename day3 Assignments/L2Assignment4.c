@@ -1,0 +1,1 @@
+/*The total number of students in a class are 45 out of which 25 are boys. If 80% of the total students secured grade 'A' out of which 15 are boys, then write a program to calculate the total number of girls getting grade 'A'. */
